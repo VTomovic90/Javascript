@@ -1,0 +1,17 @@
+input[type="range"]{
+
+	background: #000;
+	border: #fff 1px solid;
+}
+
+input[type="range"]::-webkit-slider-thumb{
+
+	border-radius: 100%;
+	cursor: pointer;
+	color: #c0c0c0;
+} 
+
+button{
+
+	color: #004080;
+}
